@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>宗师之上武学推荐器</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div>
+          <h1>宗师之上武学推荐器</h1>
+          <p class="author-line">作者：<a href="https://www.taptap.cn/user/21275135" target="_blank" rel="noopener noreferrer">白学习</a> · 诚邀大家提供各区服账号供作者统计，一起完善工具，联系方式私聊作者。</p>
+          <p id="dataMeta">读取武学数据中...</p>
+          <p class="disclaimer">说明：推荐结果来自人工统计的两个区榜单武学搭配和站长整理，越靠前代表当前选择下参考价值越高。新开服榜单 30 名以后参考价值较低；但统计到的 17 天区服前 50 名几乎都是剑阁，所以额外多取了一部分样本。不同账号养成、极字、心法、神兵、装备都会影响结果，本工具不保证任何搭配一定最优或一定通关。</p>
+        </div>
+      </header>
+
+      <section class="panel owned-panel">
+        <div class="panel-header">
+          <div>
+            <h2>选择你拥有的武学</h2>
+            <p>只点你实际拥有的高品质武学；更低品质会默认可用，也可以点卡片手动排除。</p>
+          </div>
+        </div>
+        <div class="owned-toolbar">
+          <div id="ownedState" class="owned-state"></div>
+          <button id="resetOwned" type="button">重置选择</button>
+        </div>
+        <div id="ownedSummary" class="owned-summary"></div>
+        <div id="kungfuGrid" class="kungfu-grid"></div>
+      </section>
+
+      <section class="panel recommend-panel">
+        <div class="panel-header">
+          <div>
+            <h2>推荐阵容</h2>
+            <p>根据你拥有的武学，从已上传的搭配数据里筛选可用阵容。</p>
+          </div>
+        </div>
+        <div id="recommendations" class="recommendations"></div>
+      </section>
+    </main>
+
+    <script src="./config.js"></script>
+    <script src="./loader.js"></script>
+  </body>
+</html>
