@@ -1,7 +1,7 @@
 window.ZSZS_POPULAR_LINEUPS = {
   "meta": {
-    "count": 173,
-    "updated_at": "2026-06-12"
+    "count": 269,
+    "updated_at": "2026-06-23"
   },
   "groups": [
     {
@@ -12363,6 +12363,6923 @@ window.ZSZS_POPULAR_LINEUPS = {
               "quality": "金",
               "school": "逍遥",
               "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "仙界第6天榜单",
+      "lineups": [
+        {
+          "name": "热门搭配 #1",
+          "player": {
+            "power": 14504771257,
+            "sort_index": 1
+          },
+          "core": [
+            "北冥神功",
+            "剑二十三",
+            "一剑隔世",
+            "龙吟九霄剑",
+            "万剑归宗",
+            "六脉神剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "北冥神功·极",
+              "normal_name": "北冥神功",
+              "quality": "金",
+              "school": "逍遥",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "剑二十三·极",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 3,
+              "level_display": 3
+            },
+            {
+              "pos": 3,
+              "name": "一剑隔世",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万剑归宗·极",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "六脉神剑·极",
+              "normal_name": "六脉神剑",
+              "quality": "红",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #2",
+          "player": {
+            "power": 14307698179,
+            "sort_index": 2
+          },
+          "core": [
+            "流光剑意",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 3
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #3",
+          "player": {
+            "power": 11575678651,
+            "sort_index": 3
+          },
+          "core": [
+            "龙吟九霄剑",
+            "乙木生雷诀",
+            "流光剑意",
+            "寂灭红尘斩",
+            "星河淬剑诀",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "寂灭红尘斩",
+              "normal_name": "寂灭红尘斩",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 7,
+              "level_display": 3
+            },
+            {
+              "pos": 5,
+              "name": "星河淬剑诀",
+              "normal_name": "星河淬剑诀",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #4",
+          "player": {
+            "power": 11134286288,
+            "sort_index": 4
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #5",
+          "player": {
+            "power": 10544808375,
+            "sort_index": 5
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #6",
+          "player": {
+            "power": 10330181468,
+            "sort_index": 6
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #7",
+          "player": {
+            "power": 9466996727,
+            "sort_index": 7
+          },
+          "core": [
+            "乙木生雷诀",
+            "流光剑意",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "龙吟九霄剑",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 7,
+              "level_display": 3
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #8",
+          "player": {
+            "power": 9739280029,
+            "sort_index": 8
+          },
+          "core": [
+            "乙木生雷诀",
+            "流光剑意",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #9",
+          "player": {
+            "power": 9746744202,
+            "sort_index": 9
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #10",
+          "player": {
+            "power": 9257312520,
+            "sort_index": 10
+          },
+          "core": [
+            "乙木生雷诀",
+            "流光剑意",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #11",
+          "player": {
+            "power": 9090549920,
+            "sort_index": 11
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #12",
+          "player": {
+            "power": 9254103519,
+            "sort_index": 12
+          },
+          "core": [
+            "流光剑意",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #13",
+          "player": {
+            "power": 8904086585,
+            "sort_index": 13
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "流光剑意",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #14",
+          "player": {
+            "power": 9343811226,
+            "sort_index": 14
+          },
+          "core": [
+            "龙吟九霄剑",
+            "流光剑意",
+            "星河淬剑诀",
+            "乙木生雷诀",
+            "太虚五衰咒",
+            "寂灭红尘斩"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 2,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "星河淬剑诀",
+              "normal_name": "星河淬剑诀",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "寂灭红尘斩",
+              "normal_name": "寂灭红尘斩",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 4
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #15",
+          "player": {
+            "power": 7977712210,
+            "sort_index": 15
+          },
+          "core": [
+            "乙木生雷诀",
+            "流光剑意",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 2
+            },
+            {
+              "pos": 4,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #16",
+          "player": {
+            "power": 7708344429,
+            "sort_index": 16
+          },
+          "core": [
+            "剑二十三",
+            "乙木生雷诀",
+            "天外飞仙",
+            "一剑隔世",
+            "龙吟九霄剑",
+            "万剑归宗"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天外飞仙",
+              "normal_name": "天外飞仙",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "一剑隔世",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 8,
+              "level_display": 3
+            },
+            {
+              "pos": 6,
+              "name": "万剑归宗",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #17",
+          "player": {
+            "power": 8286924568,
+            "sort_index": 17
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 2
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #18",
+          "player": {
+            "power": 8061548071,
+            "sort_index": 18
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "阴阳逆元符",
+            "千鹤裂空杀",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #19",
+          "player": {
+            "power": 8503594244,
+            "sort_index": 19
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 3
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #20",
+          "player": {
+            "power": 7930830456,
+            "sort_index": 20
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 1,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #21",
+          "player": {
+            "power": 8364656711,
+            "sort_index": 21
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #22",
+          "player": {
+            "power": 8048316437,
+            "sort_index": 22
+          },
+          "core": [
+            "乙木生雷诀",
+            "窃天造化功",
+            "幽泉引魂歌",
+            "五衰夺运术",
+            "修罗千蛊咒",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "窃天造化功",
+              "normal_name": "窃天造化功",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "幽泉引魂歌",
+              "normal_name": "幽泉引魂歌",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 7,
+              "level_display": 1
+            },
+            {
+              "pos": 4,
+              "name": "五衰夺运术",
+              "normal_name": "五衰夺运术",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 5,
+              "level_display": 3
+            },
+            {
+              "pos": 5,
+              "name": "修罗千蛊咒",
+              "normal_name": "修罗千蛊咒",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #23",
+          "player": {
+            "power": 8364379307,
+            "sort_index": 23
+          },
+          "core": [
+            "乙木生雷诀",
+            "太虚五衰咒",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "天引神雷术",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 4
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #24",
+          "player": {
+            "power": 7741290950,
+            "sort_index": 24
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #25",
+          "player": {
+            "power": 7353920613,
+            "sort_index": 25
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 7,
+              "level_display": 3
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #26",
+          "player": {
+            "power": 6901793858,
+            "sort_index": 26
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 4
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #27",
+          "player": {
+            "power": 7920959916,
+            "sort_index": 27
+          },
+          "core": [
+            "天引神雷术",
+            "乙木生雷诀",
+            "五行镇天阵",
+            "流光剑意",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 3
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #28",
+          "player": {
+            "power": 7680790390,
+            "sort_index": 28
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 4,
+              "level_display": 3
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #29",
+          "player": {
+            "power": 7728495550,
+            "sort_index": 29
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #30",
+          "player": {
+            "power": 5436219069,
+            "sort_index": 30
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 1,
+              "level_display": 1
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 1,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 1,
+              "level_display": 1
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 1,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 1,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #31",
+          "player": {
+            "power": 7899713707,
+            "sort_index": 31
+          },
+          "core": [
+            "流光剑意",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #32",
+          "player": {
+            "power": 7946151364,
+            "sort_index": 32
+          },
+          "core": [
+            "流光剑意",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 8,
+              "level_display": 3
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #33",
+          "player": {
+            "power": 7861879501,
+            "sort_index": 33
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 3
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #34",
+          "player": {
+            "power": 6865467500,
+            "sort_index": 34
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 5,
+              "level_display": 3
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #35",
+          "player": {
+            "power": 6969207994,
+            "sort_index": 35
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #36",
+          "player": {
+            "power": 6812479140,
+            "sort_index": 36
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "太乙分光诀",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 4
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #37",
+          "player": {
+            "power": 6927436717,
+            "sort_index": 37
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #38",
+          "player": {
+            "power": 6912990321,
+            "sort_index": 38
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #39",
+          "player": {
+            "power": 6431364996,
+            "sort_index": 39
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #40",
+          "player": {
+            "power": 6695092447,
+            "sort_index": 40
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #41",
+          "player": {
+            "power": 6584509194,
+            "sort_index": 41
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #42",
+          "player": {
+            "power": 7305770397,
+            "sort_index": 42
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #43",
+          "player": {
+            "power": 6651708028,
+            "sort_index": 43
+          },
+          "core": [
+            "乙木生雷诀",
+            "暴雨梨花针",
+            "寒冰生死符",
+            "幽泉引魂歌",
+            "修罗千蛊咒",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "暴雨梨花针",
+              "normal_name": "暴雨梨花针",
+              "quality": "金",
+              "school": "逍遥",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "寒冰生死符",
+              "normal_name": "寒冰生死符",
+              "quality": "金",
+              "school": "逍遥",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "幽泉引魂歌",
+              "normal_name": "幽泉引魂歌",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "修罗千蛊咒",
+              "normal_name": "修罗千蛊咒",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #44",
+          "player": {
+            "power": 6996970824,
+            "sort_index": 44
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #45",
+          "player": {
+            "power": 5126619052,
+            "sort_index": 45
+          },
+          "core": [
+            "北冥神功",
+            "五衰夺运术",
+            "剑二十三",
+            "六脉神剑",
+            "流光剑意",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "北冥神功",
+              "normal_name": "北冥神功",
+              "quality": "金",
+              "school": "逍遥",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五衰夺运术",
+              "normal_name": "五衰夺运术",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "六脉神剑",
+              "normal_name": "六脉神剑",
+              "quality": "红",
+              "school": "剑阁",
+              "rank_display": 1,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #46",
+          "player": {
+            "power": 7132625961,
+            "sort_index": 46
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #47",
+          "player": {
+            "power": 6625449450,
+            "sort_index": 47
+          },
+          "core": [
+            "天引神雷术",
+            "流光剑意",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "龙吟九霄剑",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #48",
+          "player": {
+            "power": 6583748434,
+            "sort_index": 48
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #49",
+          "player": {
+            "power": 6697776673,
+            "sort_index": 49
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 3
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #50",
+          "player": {
+            "power": 6342810071,
+            "sort_index": 50
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #51",
+          "player": {
+            "power": 6673552705,
+            "sort_index": 51
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "流光剑意",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 3
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #52",
+          "player": {
+            "power": 6254450984,
+            "sort_index": 52
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #53",
+          "player": {
+            "power": 6507910442,
+            "sort_index": 53
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #54",
+          "player": {
+            "power": 6686927967,
+            "sort_index": 54
+          },
+          "core": [
+            "流光剑意",
+            "天引神雷术",
+            "五行镇天阵",
+            "阴阳逆元符",
+            "千鹤裂空杀",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #55",
+          "player": {
+            "power": 6990198394,
+            "sort_index": 55
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 7,
+              "level_display": 4
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #56",
+          "player": {
+            "power": 7000125008,
+            "sort_index": 56
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 7,
+              "level_display": 2
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 2
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 4
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #57",
+          "player": {
+            "power": 6181800385,
+            "sort_index": 57
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 4,
+              "level_display": 4
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 3
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 5,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #58",
+          "player": {
+            "power": 6599134344,
+            "sort_index": 58
+          },
+          "core": [
+            "天引神雷术",
+            "窃天造化功",
+            "五行镇天阵",
+            "流光剑意",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "窃天造化功",
+              "normal_name": "窃天造化功",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 4,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 3
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #59",
+          "player": {
+            "power": 5853188105,
+            "sort_index": 59
+          },
+          "core": [
+            "流光剑意",
+            "乙木生雷诀",
+            "夺命十三剑",
+            "龙吟九霄剑",
+            "一剑隔世",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "夺命十三剑·极",
+              "normal_name": "夺命十三剑",
+              "quality": "红",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "一剑隔世·极",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #60",
+          "player": {
+            "power": 6754346603,
+            "sort_index": 60
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 7,
+              "level_display": 1
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 5,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #61",
+          "player": {
+            "power": 6533661720,
+            "sort_index": 61
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 4,
+              "level_display": 1
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 1,
+              "level_display": 3
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #62",
+          "player": {
+            "power": 6715370775,
+            "sort_index": 62
+          },
+          "core": [
+            "乙木生雷诀",
+            "净世业火莲",
+            "火凤葬仙决",
+            "梵天浮屠塔",
+            "大日炎轮经",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #63",
+          "player": {
+            "power": 6308447891,
+            "sort_index": 63
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 2,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 3,
+              "level_display": 4
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世·极",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 2
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 1,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #64",
+          "player": {
+            "power": 6926647221,
+            "sort_index": 64
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 2
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #65",
+          "player": {
+            "power": 6155823908,
+            "sort_index": 65
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 2
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 2,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #66",
+          "player": {
+            "power": 6996827010,
+            "sort_index": 66
+          },
+          "core": [
+            "五衰夺运术",
+            "天引神雷术",
+            "五行镇天阵",
+            "流光剑意",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "五衰夺运术",
+              "normal_name": "五衰夺运术",
+              "quality": "神通",
+              "school": "青冥",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #67",
+          "player": {
+            "power": 6371482135,
+            "sort_index": 67
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "天引神雷术",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #68",
+          "player": {
+            "power": 6004820415,
+            "sort_index": 68
+          },
+          "core": [
+            "太乙玄罡阵",
+            "仙人指路",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "太乙玄罡阵·极",
+              "normal_name": "太乙玄罡阵",
+              "quality": "金",
+              "school": "武当",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "仙人指路",
+              "normal_name": "仙人指路",
+              "quality": "金",
+              "school": "武当",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #69",
+          "player": {
+            "power": 6309418496,
+            "sort_index": 69
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #70",
+          "player": {
+            "power": 6016768132,
+            "sort_index": 70
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 5,
+              "level_display": 4
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗·极",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 9,
+              "level_display": 3
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #71",
+          "player": {
+            "power": 6334582920,
+            "sort_index": 71
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 4
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 1,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #72",
+          "player": {
+            "power": 4134810058,
+            "sort_index": 72
+          },
+          "core": [
+            "乙木生雷诀",
+            "剑二十三",
+            "一剑隔世",
+            "万剑归宗",
+            "天外飞仙",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "一剑隔世",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "万剑归宗",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "天外飞仙",
+              "normal_name": "天外飞仙",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 5,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #73",
+          "player": {
+            "power": 4401751825,
+            "sort_index": 73
+          },
+          "core": [
+            "一剑隔世",
+            "剑二十三",
+            "天外飞仙",
+            "龙吟九霄剑",
+            "流光剑意",
+            "万剑归宗"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "一剑隔世",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天外飞仙",
+              "normal_name": "天外飞仙",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 2,
+              "level_display": 3
+            },
+            {
+              "pos": 6,
+              "name": "万剑归宗·极",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #74",
+          "player": {
+            "power": 6801852185,
+            "sort_index": 74
+          },
+          "core": [
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "流光剑意",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 3
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #75",
+          "player": {
+            "power": 4092890838,
+            "sort_index": 75
+          },
+          "core": [
+            "乙木生雷诀",
+            "天外飞仙",
+            "剑二十三",
+            "一剑隔世",
+            "太乙分光诀",
+            "万剑归宗"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天外飞仙",
+              "normal_name": "天外飞仙",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "一剑隔世",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "万剑归宗",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #76",
+          "player": {
+            "power": 5985897318,
+            "sort_index": 76
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 7,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗·极",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #77",
+          "player": {
+            "power": 6312167629,
+            "sort_index": 77
+          },
+          "core": [
+            "流光剑意",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "龙吟九霄剑"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #78",
+          "player": {
+            "power": 4113755731,
+            "sort_index": 78
+          },
+          "core": [
+            "剑二十三",
+            "破空剑法",
+            "龙吟九霄剑",
+            "流星剑雨",
+            "北冥神功",
+            "万剑归宗"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "破空剑法·极",
+              "normal_name": "破空剑法",
+              "quality": "橙",
+              "school": "剑阁",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "流星剑雨·极",
+              "normal_name": "流星剑雨",
+              "quality": "橙",
+              "school": "剑阁",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "北冥神功",
+              "normal_name": "北冥神功",
+              "quality": "金",
+              "school": "逍遥",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "万剑归宗",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 4
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #79",
+          "player": {
+            "power": 4336006975,
+            "sort_index": 79
+          },
+          "core": [
+            "乙木生雷诀",
+            "剑二十三",
+            "一剑隔世",
+            "天外飞仙",
+            "万剑归宗",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "一剑隔世·极",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "天外飞仙",
+              "normal_name": "天外飞仙",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万剑归宗",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #80",
+          "player": {
+            "power": 5679959323,
+            "sort_index": 80
+          },
+          "core": [
+            "流光剑意",
+            "天外飞仙",
+            "剑二十三",
+            "一剑隔世",
+            "龙吟九霄剑",
+            "万剑归宗"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天外飞仙",
+              "normal_name": "天外飞仙",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "一剑隔世·极",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 9,
+              "level_display": 3
+            },
+            {
+              "pos": 5,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 6,
+              "level_display": 2
+            },
+            {
+              "pos": 6,
+              "name": "万剑归宗",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #81",
+          "player": {
+            "power": 6256157950,
+            "sort_index": 81
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 2,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #82",
+          "player": {
+            "power": 6363338537,
+            "sort_index": 82
+          },
+          "core": [
+            "流光剑意",
+            "万剑归宗",
+            "寂灭红尘斩",
+            "龙吟九霄剑",
+            "一剑隔世",
+            "星河淬剑诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流光剑意",
+              "normal_name": "流光剑意",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "万剑归宗·极",
+              "normal_name": "万剑归宗",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "寂灭红尘斩",
+              "normal_name": "寂灭红尘斩",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "龙吟九霄剑",
+              "normal_name": "龙吟九霄剑",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "一剑隔世",
+              "normal_name": "一剑隔世",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 7,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "星河淬剑诀",
+              "normal_name": "星河淬剑诀",
+              "quality": "神通",
+              "school": "剑宗",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #83",
+          "player": {
+            "power": 5901788350,
+            "sort_index": 83
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 1,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 4,
+              "level_display": 4
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 2,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #84",
+          "player": {
+            "power": 6352864517,
+            "sort_index": 84
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #85",
+          "player": {
+            "power": 5882413480,
+            "sort_index": 85
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 2,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #86",
+          "player": {
+            "power": 6094603584,
+            "sort_index": 86
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 1
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #87",
+          "player": {
+            "power": 5903257185,
+            "sort_index": 87
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "阴阳逆元符",
+            "千鹤裂空杀",
+            "太虚五衰咒"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 1
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 1
+            },
+            {
+              "pos": 6,
+              "name": "太虚五衰咒",
+              "normal_name": "太虚五衰咒",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 5,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #88",
+          "player": {
+            "power": 5828861198,
+            "sort_index": 88
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 5,
+              "level_display": 4
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗·极",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 4,
+              "level_display": 2
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #89",
+          "player": {
+            "power": 5846786467,
+            "sort_index": 89
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 1
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #90",
+          "player": {
+            "power": 5925100774,
+            "sort_index": 90
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 4
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 7,
+              "level_display": 1
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 3
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 1
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #91",
+          "player": {
+            "power": 6420619531,
+            "sort_index": 91
+          },
+          "core": [
+            "天引神雷术",
+            "乙木生雷诀",
+            "五行镇天阵",
+            "太乙分光诀",
+            "千鹤裂空杀",
+            "阴阳逆元符"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 9,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #92",
+          "player": {
+            "power": 6006196680,
+            "sort_index": 92
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 3
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #93",
+          "player": {
+            "power": 6278087744,
+            "sort_index": 93
+          },
+          "core": [
+            "乙木生雷诀",
+            "天引神雷术",
+            "五行镇天阵",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 5,
+              "level_display": 2
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #94",
+          "player": {
+            "power": 4573406262,
+            "sort_index": 94
+          },
+          "core": [
+            "流星剑雨",
+            "夺命十三剑",
+            "剑二十三",
+            "破空剑法",
+            "六脉神剑",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "流星剑雨·极",
+              "normal_name": "流星剑雨",
+              "quality": "橙",
+              "school": "剑阁",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "夺命十三剑·极",
+              "normal_name": "夺命十三剑",
+              "quality": "红",
+              "school": "剑阁",
+              "rank_display": 4,
+              "level_display": 2
+            },
+            {
+              "pos": 3,
+              "name": "剑二十三",
+              "normal_name": "剑二十三",
+              "quality": "金",
+              "school": "剑阁",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "破空剑法·极",
+              "normal_name": "破空剑法",
+              "quality": "橙",
+              "school": "剑阁",
+              "rank_display": 5,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "六脉神剑·极",
+              "normal_name": "六脉神剑",
+              "quality": "红",
+              "school": "剑阁",
+              "rank_display": 2,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 5,
+              "level_display": 5
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #95",
+          "player": {
+            "power": 5799844396,
+            "sort_index": 95
+          },
+          "core": [
+            "净世业火莲",
+            "火凤葬仙决",
+            "天佛降世",
+            "梵天浮屠塔",
+            "万佛朝宗",
+            "大日炎轮经"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "净世业火莲",
+              "normal_name": "净世业火莲",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "火凤葬仙决",
+              "normal_name": "火凤葬仙决",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 3,
+              "name": "天佛降世",
+              "normal_name": "天佛降世",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 5,
+              "level_display": 3
+            },
+            {
+              "pos": 4,
+              "name": "梵天浮屠塔",
+              "normal_name": "梵天浮屠塔",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 6,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "万佛朝宗",
+              "normal_name": "万佛朝宗",
+              "quality": "金",
+              "school": "少林",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "大日炎轮经",
+              "normal_name": "大日炎轮经",
+              "quality": "神通",
+              "school": "佛门",
+              "rank_display": 5,
+              "level_display": 2
+            }
+          ]
+        },
+        {
+          "name": "热门搭配 #96",
+          "player": {
+            "power": 6083566898,
+            "sort_index": 96
+          },
+          "core": [
+            "乙木生雷诀",
+            "五行镇天阵",
+            "天引神雷术",
+            "千鹤裂空杀",
+            "阴阳逆元符",
+            "太乙分光诀"
+          ],
+          "flex": [],
+          "slots": [
+            {
+              "pos": 1,
+              "name": "乙木生雷诀",
+              "normal_name": "乙木生雷诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 2,
+              "name": "五行镇天阵",
+              "normal_name": "五行镇天阵",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 1
+            },
+            {
+              "pos": 3,
+              "name": "天引神雷术",
+              "normal_name": "天引神雷术",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 4,
+              "level_display": 5
+            },
+            {
+              "pos": 4,
+              "name": "千鹤裂空杀",
+              "normal_name": "千鹤裂空杀",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 8,
+              "level_display": 5
+            },
+            {
+              "pos": 5,
+              "name": "阴阳逆元符",
+              "normal_name": "阴阳逆元符",
+              "quality": "神通",
+              "school": "道家",
+              "rank_display": 3,
+              "level_display": 5
+            },
+            {
+              "pos": 6,
+              "name": "太乙分光诀",
+              "normal_name": "太乙分光诀",
+              "quality": "金",
+              "school": "登仙",
+              "rank_display": 6,
               "level_display": 5
             }
           ]

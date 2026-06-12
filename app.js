@@ -2,11 +2,17 @@ const data = window.ZSZS_KUNGFU_DATA;
 const adminData = window.ZSZS_ADMIN_LINEUPS || { meta: { count: 0 }, lineups: [] };
 const popularData = window.ZSZS_POPULAR_LINEUPS || { meta: { count: 0 }, lineups: [] };
 
-const QUALITY_NAMES = { 4: "紫", 5: "橙", 6: "红", 7: "金" };
-const QUALITY_ORDER = [7, 6, 5, 4];
-const SCHOOL_ORDER = ["少林", "武当", "剑阁", "逍遥", "登仙", "基础"];
+const QUALITY_NAMES = { 4: "紫", 5: "橙", 6: "红", 7: "金", 8: "神通" };
+const QUALITY_ORDER = [8, 7, 6, 5, 4];
+const SCHOOL_ORDER = ["佛门", "道家", "剑宗", "青冥", "天绝", "少林", "武当", "剑阁", "逍遥", "登仙", "基础"];
 const STORAGE_KEY = "zszs-simple-owned-v1";
+const XIANJIE_GROUP_NAME = "仙界第6天榜单";
 const BOOK_ORDER = {
+  "8:佛门": ["火凤葬仙决", "梵天浮屠塔", "大日炎轮经", "净世业火莲"],
+  "8:道家": ["阴阳逆元符", "天引神雷术", "五行镇天阵", "千鹤裂空杀"],
+  "8:剑宗": ["流光剑意", "星河淬剑诀", "寂灭红尘斩", "龙吟九霄剑"],
+  "8:青冥": ["幽泉引魂歌", "修罗千蛊咒", "窃天造化功", "五衰夺运术"],
+  "8:天绝": ["玄魔降世", "破妄神光", "斩龙剑阵"],
   "7:少林": ["天佛降世", "万佛朝宗", "佛点千灯", "天龙八音"],
   "7:武当": ["太乙玄罡阵", "仙人指路", "天地同寿", "先天一气诀"],
   "7:剑阁": ["万剑归宗", "剑二十三", "天外飞仙", "一剑隔世"],
@@ -75,12 +81,22 @@ function normalizeLineups(lineups, groupIndex, kind) {
 }
 
 function leaderboardDayLabels(raw) {
-  const labels = new Set();
+  const openingDays = new Set();
+  const otherLabels = [];
   for (const group of raw.groups || []) {
-    const match = String(group.name || "").match(/开服\s*(\d+)\s*天/);
-    if (match) labels.add(Number(match[1]));
+    const name = String(group.name || "").trim();
+    if (!name) continue;
+    const match = name.match(/开服\s*(\d+)\s*天/);
+    if (match) {
+      openingDays.add(Number(match[1]));
+    } else if (!otherLabels.includes(name)) {
+      otherLabels.push(name);
+    }
   }
-  return [...labels].sort((a, b) => a - b).map((day) => `开服${day}天`);
+  return [
+    ...[...openingDays].sort((a, b) => a - b).map((day) => `开服${day}天`),
+    ...otherLabels,
+  ];
 }
 
 function hasDengxianName(name) {
@@ -122,11 +138,25 @@ function schoolIndex(name) {
 }
 
 function qualityClass(quality) {
+  if (quality === 8) return "mythic";
   if (quality === 7) return "gold";
   if (quality === 6) return "red";
   if (quality === 5) return "orange";
   if (quality === 4) return "purple";
   return "blue";
+}
+
+function qualityLabel(quality) {
+  return Number(quality) === 8 ? "神通" : `${QUALITY_NAMES[quality]}品`;
+}
+
+function qualitySectionTitle(quality) {
+  return Number(quality) === 8 ? "神通武学" : `${QUALITY_NAMES[quality]}品武学`;
+}
+
+function slotQualityLabel(slotQuality, fallbackQuality) {
+  if (slotQuality) return slotQuality === "神通" ? "神通" : `${slotQuality}品`;
+  return qualityLabel(fallbackQuality);
 }
 
 function bookOrderIndex(group) {
@@ -215,6 +245,18 @@ function hasSelectedDengxian() {
   return groups.some((group) => state.owned[group.name] && group.item.weapon_name === "登仙");
 }
 
+function hasSelectedShentong() {
+  return groups.some((group) => state.owned[group.name] && Number(group.item.quality) === 8);
+}
+
+function recommendationTemplates() {
+  if (hasSelectedShentong()) {
+    return POPULAR_RECOMMENDATIONS.filter((template) => template.group_name === XIANJIE_GROUP_NAME);
+  }
+  if (hasSelectedDengxian()) return POPULAR_RECOMMENDATIONS;
+  return [...ADMIN_RECOMMENDATIONS, ...POPULAR_RECOMMENDATIONS];
+}
+
 function textOfGroup(group) {
   const item = group?.item || {};
   return [group?.name, item.weapon_name, ...(item.effect_labels || [])]
@@ -267,6 +309,7 @@ function fitLabel(row) {
 
 function qualityWeight(group) {
   const quality = Number(group?.item?.quality || 0);
+  if (quality === 8) return 220;
   if (quality === 7) return 100;
   if (quality === 6) return 45;
   if (quality === 5) return 18;
@@ -335,7 +378,7 @@ function recommendLineups(highest) {
   const ownedNames = availableNames(highest);
   const pickedNames = selectedNames();
   if (!pickedNames.size) return [];
-  const templates = hasSelectedDengxian() ? POPULAR_RECOMMENDATIONS : [...ADMIN_RECOMMENDATIONS, ...POPULAR_RECOMMENDATIONS];
+  const templates = recommendationTemplates();
   return templates.map((template) => {
     const core = template.core.map(findGroup).filter(Boolean);
     const missingCore = core.filter((group) => !ownedNames.has(group.name));
@@ -396,7 +439,7 @@ function renderSummary(highest) {
   els.ownedSummary.innerHTML = QUALITY_ORDER.map(
     (quality) => `
       <div class="summary-card ${qualityClass(quality)}">
-        <strong>${QUALITY_NAMES[quality]}品</strong>
+        <strong>${qualityLabel(quality)}</strong>
         <span>${counts[quality].owned}/${counts[quality].total} 可用</span>
       </div>
     `
@@ -416,7 +459,7 @@ function renderKungfuGrid(highest) {
       })).filter((entry) => entry.rows.length);
       return `
         <section class="quality-section ${qualityClass(quality)}">
-          <div class="quality-title">${QUALITY_NAMES[quality]}品武学</div>
+          <div class="quality-title">${qualitySectionTitle(quality)}</div>
           <div class="school-board">
             ${schools
               .map(
@@ -509,14 +552,14 @@ function renderRecommendations(highest) {
                     const quality = Number(item?.quality || 7);
                     return `<li class="${qualityClass(quality)} ${owned ? "" : "missing-slot"}">
                       <span>${escapeHtml(slot.name)}</span>
-                      <small>${escapeHtml(slot.school || item?.weapon_name || "")} · ${escapeHtml(slot.quality || QUALITY_NAMES[quality] || "")}品 · ${escapeHtml(slotLevelText(slot))}</small>
+                      <small>${escapeHtml(slot.school || item?.weapon_name || "")} · ${escapeHtml(slotQualityLabel(slot.quality, quality))} · ${escapeHtml(slotLevelText(slot))}</small>
                     </li>`;
                   })
                   .join("")
               : row.lineup
                   .map((group) => {
                     const item = group.item;
-                    return `<li class="${qualityClass(Number(item.quality))}"><span>${escapeHtml(group.name)}</span><small>${escapeHtml(item.weapon_name)} · ${QUALITY_NAMES[item.quality]}品</small></li>`;
+                    return `<li class="${qualityClass(Number(item.quality))}"><span>${escapeHtml(group.name)}</span><small>${escapeHtml(item.weapon_name)} · ${qualityLabel(item.quality)}</small></li>`;
                   })
                   .join("")
           }
@@ -531,9 +574,9 @@ function render() {
   const highest = selectedHighestQuality();
   const below = QUALITY_ORDER.filter((quality) => quality < highest)
     .sort((a, b) => b - a)
-    .map((quality) => `${QUALITY_NAMES[quality]}品`)
+    .map(qualityLabel)
     .join("、") || "无";
-  const selectedText = highest ? `${QUALITY_NAMES[highest]}品` : "未选择";
+  const selectedText = highest ? qualityLabel(highest) : "未选择";
   const leaderboardText = LEADERBOARD_DAYS.length ? LEADERBOARD_DAYS.join("、") : "暂无";
   const updatedAt = popularData.meta?.updated_at ? ` · 更新时间：${escapeHtml(popularData.meta.updated_at)}` : "";
   els.dataMeta.innerHTML = `
