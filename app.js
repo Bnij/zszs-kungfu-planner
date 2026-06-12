@@ -285,11 +285,13 @@ function lineupGroupRank(template) {
 }
 
 function compareLeaderboardOrder(a, b) {
+  const groupDiff = lineupGroupRank(a.template) - lineupGroupRank(b.template);
+  if (groupDiff) return groupDiff;
   const rankDiff = lineupRank(a.template) - lineupRank(b.template);
   if (rankDiff) return rankDiff;
   const powerDiff = Number(b.template.player?.power || 0) - Number(a.template.player?.power || 0);
   if (powerDiff) return powerDiff;
-  return lineupGroupRank(a.template) - lineupGroupRank(b.template);
+  return 0;
 }
 
 function compareRecommendation(a, b) {
@@ -533,10 +535,11 @@ function render() {
     .join("、") || "无";
   const selectedText = highest ? `${QUALITY_NAMES[highest]}品` : "未选择";
   const leaderboardText = LEADERBOARD_DAYS.length ? LEADERBOARD_DAYS.join("、") : "暂无";
+  const updatedAt = popularData.meta?.updated_at ? ` · 更新时间：${escapeHtml(popularData.meta.updated_at)}` : "";
   els.dataMeta.innerHTML = `
     <span>${groups.length} 个紫品以上武学 · 站长推荐 ${ADMIN_RECOMMENDATIONS.length} 条 · 热门搭配 ${POPULAR_RECOMMENDATIONS.length} 条</span>
-    <span>已统计榜单：${escapeHtml(leaderboardText)}</span>
-    <span>推荐排序：先看能否完整凑齐，再按推图榜单名次；战力只作参考。</span>
+    <span>已统计榜单：${escapeHtml(leaderboardText)}${updatedAt}</span>
+    <span>推荐排序：先看能否完整凑齐，再按推图榜单新鲜度和名次；战力只作参考。</span>
     <span>使用方法：只点你实际拥有的高品质武学，低品质会自动可用，也可以点卡片排除。</span>
   `;
   els.ownedState.innerHTML = `
