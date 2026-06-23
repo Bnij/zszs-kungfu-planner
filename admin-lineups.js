@@ -3,11 +3,13 @@
   const kungfuInfo = {
     无相劫指: { quality: "红", school: "少林" },
     天佛降世: { quality: "金", school: "少林" },
+    火凤葬仙决: { quality: "神通", school: "佛门" },
     佛光普照: { quality: "红", school: "少林" },
     万佛朝宗: { quality: "金", school: "少林" },
     佛点千灯: { quality: "金", school: "少林" },
     天龙八音: { quality: "金", school: "少林" },
     大悲狮子吼: { quality: "红", school: "少林" },
+    净世业火莲: { quality: "神通", school: "佛门" },
     太乙玄罡阵: { quality: "金", school: "武当" },
     天地同寿: { quality: "金", school: "武当" },
     先天一气诀: { quality: "金", school: "武当" },
@@ -31,6 +33,18 @@
         ["天龙八音", "大悲狮子吼"],
         ["夺命十三剑"],
         ["六脉神剑"],
+      ],
+    },
+    {
+      name: "站长推荐：佛门少林兜底",
+      low_priority: true,
+      variants: [
+        ["天佛降世"],
+        ["火凤葬仙决"],
+        ["万佛朝宗"],
+        ["佛点千灯"],
+        ["天龙八音"],
+        ["净世业火莲"],
       ],
     },
     {
@@ -94,6 +108,7 @@
     const combos = expandVariants(raw.variants);
     return combos.map((combo, index) => ({
       name: combos.length > 1 ? `${raw.name} #${index + 1}` : raw.name,
+      low_priority: Boolean(raw.low_priority),
       core: combo,
       slots: combo.map(slotOf),
     }));

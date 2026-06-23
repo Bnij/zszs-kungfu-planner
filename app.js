@@ -70,6 +70,7 @@ function normalizeLineups(lineups, groupIndex, kind) {
     kind,
     name: lineup.name || `热门搭配 #${index + 1}`,
     group_name: lineup.group_name || "",
+    low_priority: Boolean(lineup.low_priority || lineup.lowPriority),
     core: lineup.core || [],
     slots: lineup.slots || [],
     player: {
@@ -251,7 +252,10 @@ function hasSelectedShentong() {
 
 function recommendationTemplates() {
   if (hasSelectedShentong()) {
-    return POPULAR_RECOMMENDATIONS.filter((template) => template.group_name === XIANJIE_GROUP_NAME);
+    return [
+      ...POPULAR_RECOMMENDATIONS.filter((template) => template.group_name === XIANJIE_GROUP_NAME),
+      ...ADMIN_RECOMMENDATIONS.filter((template) => template.low_priority),
+    ];
   }
   if (hasSelectedDengxian()) return POPULAR_RECOMMENDATIONS;
   return [...ADMIN_RECOMMENDATIONS, ...POPULAR_RECOMMENDATIONS];
@@ -358,6 +362,9 @@ function compareRecommendation(a, b) {
 
   const missingWeightDiff = a.missingWeight - b.missingWeight;
   if (missingWeightDiff) return missingWeightDiff;
+
+  const lowPriorityDiff = Number(a.template.low_priority) - Number(b.template.low_priority);
+  if (lowPriorityDiff) return lowPriorityDiff;
 
   const exactQualityDiff = b.exactQuality - a.exactQuality;
   if (exactQualityDiff) return exactQualityDiff;
