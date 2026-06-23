@@ -2,7 +2,7 @@ window.ZSZS_KUNGFU_DATA = {
   "meta": {
     "title": "宗师之上武学推荐器",
     "counts": {
-      "kungfu": 59
+      "kungfu": 78
     },
     "public_note": "人工整理用公开数据，仅保留推荐器需要的名称、品质、门派和效果标签。"
   },
@@ -10,7 +10,8 @@ window.ZSZS_KUNGFU_DATA = {
     "4": "紫",
     "5": "橙",
     "6": "红",
-    "7": "金"
+    "7": "金",
+    "8": "神通"
   },
   "kungfu": [
     {
@@ -748,6 +749,271 @@ window.ZSZS_KUNGFU_DATA = {
         "净化驱散",
         "目标3",
         "登仙增益"
+      ]
+    },
+    {
+      "name": "火凤葬仙决",
+      "normal_name": "火凤葬仙决",
+      "id": 29010,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "佛门",
+      "effect_labels": [
+        "灼烧",
+        "会心",
+        "增益",
+        "目标3"
+      ]
+    },
+    {
+      "name": "梵天浮屠塔",
+      "normal_name": "梵天浮屠塔",
+      "id": 29020,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "佛门",
+      "effect_labels": [
+        "灼烧",
+        "持续",
+        "增益",
+        "目标3"
+      ]
+    },
+    {
+      "name": "大日炎轮经",
+      "normal_name": "大日炎轮经",
+      "id": 29030,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "佛门",
+      "effect_labels": [
+        "灼烧",
+        "引爆",
+        "回血",
+        "爆发",
+        "目标2"
+      ]
+    },
+    {
+      "name": "净世业火莲",
+      "normal_name": "净世业火莲",
+      "id": 29040,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "佛门",
+      "effect_labels": [
+        "增益",
+        "延长",
+        "减益延长",
+        "目标4"
+      ]
+    },
+    {
+      "name": "阴阳逆元符",
+      "normal_name": "阴阳逆元符",
+      "id": 29050,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "道家",
+      "effect_labels": [
+        "回血",
+        "增益",
+        "目标2"
+      ]
+    },
+    {
+      "name": "天引神雷术",
+      "normal_name": "天引神雷术",
+      "id": 29060,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "道家",
+      "effect_labels": [
+        "减益",
+        "攻速",
+        "减伤",
+        "会心",
+        "目标3"
+      ]
+    },
+    {
+      "name": "五行镇天阵",
+      "normal_name": "五行镇天阵",
+      "id": 29070,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "道家",
+      "effect_labels": [
+        "增益",
+        "会心",
+        "目标4"
+      ]
+    },
+    {
+      "name": "千鹤裂空杀",
+      "normal_name": "千鹤裂空杀",
+      "id": 29080,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "道家",
+      "effect_labels": [
+        "爆发",
+        "额外伤害",
+        "增益",
+        "会心",
+        "目标3"
+      ]
+    },
+    {
+      "name": "流光剑意",
+      "normal_name": "流光剑意",
+      "id": 29090,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "剑宗",
+      "effect_labels": [
+        "增益",
+        "招架",
+        "目标4"
+      ]
+    },
+    {
+      "name": "星河淬剑诀",
+      "normal_name": "星河淬剑诀",
+      "id": 29100,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "剑宗",
+      "effect_labels": [
+        "增益",
+        "减益",
+        "招架",
+        "目标3"
+      ]
+    },
+    {
+      "name": "寂灭红尘斩",
+      "normal_name": "寂灭红尘斩",
+      "id": 29110,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "剑宗",
+      "effect_labels": [
+        "异常",
+        "减冷却",
+        "爆发",
+        "目标2"
+      ]
+    },
+    {
+      "name": "龙吟九霄剑",
+      "normal_name": "龙吟九霄剑",
+      "id": 29120,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "剑宗",
+      "effect_labels": [
+        "多段",
+        "减冷却",
+        "攻速",
+        "目标3"
+      ]
+    },
+    {
+      "name": "幽泉引魂歌",
+      "normal_name": "幽泉引魂歌",
+      "id": 29130,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "青冥",
+      "effect_labels": [
+        "中毒",
+        "易伤",
+        "持续",
+        "目标3"
+      ]
+    },
+    {
+      "name": "修罗千蛊咒",
+      "normal_name": "修罗千蛊咒",
+      "id": 29140,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "青冥",
+      "effect_labels": [
+        "中毒",
+        "易伤",
+        "爆发",
+        "目标3"
+      ]
+    },
+    {
+      "name": "窃天造化功",
+      "normal_name": "窃天造化功",
+      "id": 29150,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "青冥",
+      "effect_labels": [
+        "增益",
+        "减益",
+        "属性强化",
+        "目标4"
+      ]
+    },
+    {
+      "name": "五衰夺运术",
+      "normal_name": "五衰夺运术",
+      "id": 29160,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "青冥",
+      "effect_labels": [
+        "中毒",
+        "引爆",
+        "减冷却",
+        "目标2"
+      ]
+    },
+    {
+      "name": "玄魔降世",
+      "normal_name": "玄魔降世",
+      "id": 29170,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "天绝",
+      "effect_labels": [
+        "伤害叠加",
+        "击杀刷新",
+        "目标2"
+      ]
+    },
+    {
+      "name": "破妄神光",
+      "normal_name": "破妄神光",
+      "id": 29180,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "天绝",
+      "effect_labels": [
+        "法则",
+        "会心",
+        "增益",
+        "目标4"
+      ]
+    },
+    {
+      "name": "斩龙剑阵",
+      "normal_name": "斩龙剑阵",
+      "id": 29190,
+      "quality": 8,
+      "quality_name": "神通",
+      "weapon_name": "天绝",
+      "effect_labels": [
+        "爆发",
+        "人数缩放",
+        "会心",
+        "目标5"
       ]
     }
   ]

@@ -13,6 +13,7 @@
   --orange: #bd7130;
   --red: #c7444d;
   --gold: #a18212;
+  --mythic: #8d4d9a;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
@@ -225,6 +226,10 @@ p {
   background: #e2c33b;
 }
 
+.quality-section.mythic .quality-title {
+  background: #c05fb2;
+}
+
 .school-board {
   display: grid;
   grid-template-columns: repeat(5, minmax(94px, 1fr));
@@ -351,6 +356,10 @@ p {
 
 .kungfu-card.gold .icon-box {
   background: linear-gradient(135deg, #92720b, #f0d450);
+}
+
+.kungfu-card.mythic .icon-box {
+  background: linear-gradient(135deg, #75358a, #ef8ad4);
 }
 
 .status {
@@ -527,6 +536,10 @@ p {
 
 .gold {
   color: var(--gold);
+}
+
+.mythic {
+  color: var(--mythic);
 }
 
 @media (max-width: 980px) {
